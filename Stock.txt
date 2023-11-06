@@ -1,0 +1,29 @@
+	ITEM					Quantity 
+
+Coffee-Beans 				30 kg
+Cocoa-Powder 				50 kg
+Dry Chocolate 				10 kg
+Chocolate Syrup 			30 kg
+Sugar 						80 kg
+Maraschino Cherry			25 kg
+Vanilla IceCream			40 kg
+Honey						10 kg
+Peanut Butter				20 kg
+Peanuts						5 kg
+Nutella Jars				150 Jars
+Hazelnuts					15 kg
+Strawberries				50 kg
+Blueberries					40 kg
+Raspberries					30 kg
+Banana						20 dozens
+Mango						40 kg
+Protein Powder				10 kg
+Avocado						30 kg
+Milk 						100 liters
+Almond Milk					50 liters
+Yogurt						10 liters
+Whipped Cream 				20 liters
+Water 						100 liters
+Roasted Hazelnut Syrup 		10 liters
+Coconut Syrup 				15 liters
+Maple Syrup 				5 liters
